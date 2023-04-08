@@ -4,7 +4,7 @@
   grid-template-columns: 1fr;
   grid-template-areas: "sidebar"
                        "content";
-  width: 100vw; /* unnecessary, but let's keep things consistent */
+  width: 100vw;
   height: 100vh;
 }
 
